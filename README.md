@@ -1,3 +1,9 @@
+DO NOT USE THIS PLUGIN
+======================
+
+Use the excellent https://github.com/tpope/vim-git/ and map `:Fixup` or
+`:Squash` or `:Reword` using that module. It works so much better than this.
+
 Vim mappings for interactive rebase
 ===================================
 
